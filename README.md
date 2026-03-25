@@ -10,6 +10,28 @@ Analyse de plus de 100 000 commandes sur la marketplace brésilienne Olist à pa
 
 Ce dashboard Power BI s'étend sur 3 pages : la vue générale des ventes, la performance des livraisons et la satisfaction client. Chaque page intègre une comparaison year-over-year sur l'ensemble des KPIs.
 
+## Aperçu du dashboard
+
+**Page 1 — Vue générale des ventes**
+
+![Page 1](Page_1_General_view_of_sales.png)
+
+**Page 2 — Analyse des livraisons (vue barres)**
+
+![Page 2 barres](Page_2_Delivery_Analysis_Vue_Barres.png)
+
+**Page 2 — Analyse des livraisons (vue carte)**
+
+![Page 2 carte](Page_2_Delivery_Analysis_Vue_Carte.png)
+
+**Page 3 — Satisfaction client**
+
+![Page 3](Page_3_Customer_Satisfaction.png)
+
+**Modèle de données — Schéma en étoile**
+
+![Modèle](Vue_modele_Schema_etoile.png)
+
 
 
 ## Analyse
