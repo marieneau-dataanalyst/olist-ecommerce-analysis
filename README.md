@@ -30,7 +30,7 @@ Ce dashboard Power BI s'étend sur 3 pages : la vue générale des ventes, la pe
 
 **Modèle de données — Schéma en étoile**
 
-![Modèle](Vue_modèle_Schema_étoile.png)
+![Modèle](Vue_modele_Schema_etoile.png)
 
 
 
