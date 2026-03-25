@@ -1,6 +1,6 @@
-# Analyse e-commerce Olist — Dashboard Power BI
+# Analyse e-commerce Olist - Dashboard Power BI
 
-Données Kaggle · Marché brésilien · 2017-2018
+Données Kaggle - Marché brésilien - 2017-2018
 
 
 
